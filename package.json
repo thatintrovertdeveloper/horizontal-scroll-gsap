@@ -1,0 +1,25 @@
+{
+  "name": "gsap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.mjs",
+    "watch": "node esbuild_watch.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@compodoc/live-server": "^1.2.3",
+    "autoprefixer": "^10.4.20",
+    "esbuild": "^0.24.2",
+    "esbuild-sass-plugin": "^3.3.1",
+    "postcss": "^8.4.49"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "bootstrap": "^5.3.3",
+    "gsap": "^3.12.5",
+    "scrollmagic": "^2.0.8"
+  }
+}
