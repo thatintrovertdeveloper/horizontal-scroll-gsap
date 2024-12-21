@@ -4,4 +4,4 @@ This is an updated version of the code for the [Horizontal Scroll with GSAP and 
 
 ## Credits
 
-- [[Horizontal Scroll with GSAP and ScrollMagic]](https://codepen.io/alexandrebuffet/pen/wmbjQg)
+- [Horizontal Scroll with GSAP and ScrollMagic](https://codepen.io/alexandrebuffet/pen/wmbjQg)
